@@ -1,0 +1,19 @@
+.Memoria {
+    
+}
+
+.BitColumn{
+    padding: 0;
+}
+
+.ModalBtnProcesso{
+  position: fixed;
+  bottom: 0.8em;
+  right: 2em;  
+}
+
+.ModalBtnMemoria{
+    position: fixed;
+    bottom: 0.8em;
+    left: 2em;  
+  }
