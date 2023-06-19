@@ -1,0 +1,18 @@
+.memoria{
+
+}
+
+.memoria .visualizador{
+
+}
+
+.memoria .visualizador .bit{
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+    border: 1px solid black;
+}
+
+.memoria .visualizador .bit .sigla{
+    
+}
